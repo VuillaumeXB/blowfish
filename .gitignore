@@ -32,3 +32,4 @@ node_modules
 .idea
 .Ulysses-Group.plist
 .Ulysses-Settings.plist
+package-lock.json
